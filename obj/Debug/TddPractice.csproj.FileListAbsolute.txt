@@ -1,0 +1,7 @@
+C:\Users\qci\source\repos\TddPractice\TddPractice\obj\Debug\TddPractice.csprojResolveAssemblyReference.cache
+C:\Users\qci\source\repos\TddPractice\TddPractice\obj\Debug\TddPractice.csproj.CoreCompileInputs.cache
+C:\Users\qci\source\repos\TddPractice\TddPractice\bin\Debug\TddPractice.exe.config
+C:\Users\qci\source\repos\TddPractice\TddPractice\bin\Debug\TddPractice.exe
+C:\Users\qci\source\repos\TddPractice\TddPractice\bin\Debug\TddPractice.pdb
+C:\Users\qci\source\repos\TddPractice\TddPractice\obj\Debug\TddPractice.exe
+C:\Users\qci\source\repos\TddPractice\TddPractice\obj\Debug\TddPractice.pdb
