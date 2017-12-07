@@ -8,18 +8,22 @@ namespace TddPractice
 {
     public class DataHelper
     {
-        DataModel DM = new DataModel();
-        public bool ValidateIsEven(int n)
+        public List<int> GetEvenNumber(List<int> inputList)
         {
-
-            return (n % 2 == 0);
+            var returnVal = inputList.Where(x => x % 2 == 0).ToList();
+            return returnVal;
         }
 
-        public bool ValidateIsPopulated(List<int> n)
+        public string GetWord(List<string> inputList, string matchString)
         {
-            return (n.Count > 0);
+            var returnVal = inputList.Find(x => x == matchString);
+            return returnVal;
         }
 
-
+        public List<string> SortList(List<string> inputList)
+        {
+            inputList.Sort();
+            return inputList;
+        }
     }
 }
