@@ -5,3 +5,10 @@ C:\Users\qci\source\repos\TddPractice\TddPractice\bin\Debug\TddPractice.exe
 C:\Users\qci\source\repos\TddPractice\TddPractice\bin\Debug\TddPractice.pdb
 C:\Users\qci\source\repos\TddPractice\TddPractice\obj\Debug\TddPractice.exe
 C:\Users\qci\source\repos\TddPractice\TddPractice\obj\Debug\TddPractice.pdb
+D:\Users\Wesley\Projects\PracticeProjects\TddPractice\bin\Debug\TddPractice.exe.config
+D:\Users\Wesley\Projects\PracticeProjects\TddPractice\bin\Debug\TddPractice.exe
+D:\Users\Wesley\Projects\PracticeProjects\TddPractice\bin\Debug\TddPractice.pdb
+D:\Users\Wesley\Projects\PracticeProjects\TddPractice\obj\Debug\TddPractice.csprojResolveAssemblyReference.cache
+D:\Users\Wesley\Projects\PracticeProjects\TddPractice\obj\Debug\TddPractice.csproj.CoreCompileInputs.cache
+D:\Users\Wesley\Projects\PracticeProjects\TddPractice\obj\Debug\TddPractice.exe
+D:\Users\Wesley\Projects\PracticeProjects\TddPractice\obj\Debug\TddPractice.pdb
